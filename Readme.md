@@ -9,7 +9,6 @@
 
 ## 🌟 Live Demo
 
-**🔗 [Try it Live](https://claude.ai/chat/YOUR_LIVE_URL_HERE)**
 
 **📹 [Watch Demo Video](https://claude.ai/chat/YOUR_VIDEO_URL_HERE)**
 
