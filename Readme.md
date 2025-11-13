@@ -1,4 +1,4 @@
-# 🤖 Real-time User Intent Detection for Humanized Conversations-- By Pathan Afnan Khan
+# 🤖 Real-time User Intent Detection for Humanized Conversations-- 
 
 ![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
 ![Status](https://img.shields.io/badge/status-production--ready-success.svg)
