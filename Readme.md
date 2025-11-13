@@ -681,7 +681,7 @@ git push origin feature/amazing-feature
 
 MIT License
 
-Copyright (c) 2025 Syeda Shamama Afeef
+Copyright (c) 2025 Pathan Afnan Khan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -705,13 +705,12 @@ SOFTWARE.
 
 ## 📞 Contact & Support
 
- **Developer** : Syeda Shamama Afeef
+ **Developer** : Pathan Afnan Khan
 
- **Email** : syedashamama459@gmail.com
+ **Email** : afnankhan67445@gmail.com
 
- **GitHub** : [@](https://github.com/your-username)afeef2003
 
- **LinkedIn** : Syeda Shamama Afeef
+ **LinkedIn** : Pathan Afnan Khan
 
 ---
 
@@ -746,7 +745,7 @@ Show your support by starring this repository!
 ---
 
 <div align="center">
-**Made with ❤️ by Syeda Shamama Afeef**
+**Made with ❤️ by Pathan Afnan Khan**
 
 [⬆ Back to Top](https://claude.ai/chat/e1b4b7e7-e374-4e49-b509-d028f6f5732a#-real-time-user-intent-detection-for-humanized-conversations)
 
